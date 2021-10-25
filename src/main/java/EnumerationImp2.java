@@ -15,10 +15,6 @@ public class EnumerationImp2 {
         Weekdays(int i) {
             this.value = i;
         }
-
-        private int getValue(){
-            return this.value;
-        }
     }
 
     public static void main(String[] args) {
